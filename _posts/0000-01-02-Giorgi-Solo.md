@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Vinc moyvaresa ar edzebs igi tavisa mteria
 Use the left arrow to go back!
